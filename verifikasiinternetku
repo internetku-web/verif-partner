@@ -1,33 +1,27 @@
-document.write( '<div id=\'internetku\'>\n' );
-document.write( '<img src=\'https://bit.ly/logointernetku\' alt=\'internetKu - Infromasi Teknologi, Android, dan Gaya Hidup\' title=\'internetKu - Informasi Teknologi, Android, dan Gaya Hidup\'/>\n' );
-document.write( '<h3>www.internetKu.web.id</h3>\n' );
-document.write( '<p>Situs ini terdaftar sebagai Partner atau mitra di <a href=\'https://www.internetku.web.id\' target=\'_blank\' rel=\'dofollow\'>Internet ku</a></p>\n' );
-document.write( '</div>\n' );
-document.write( '\n' );
-document.write( '<style type=\'text/css\'>\n' );
-document.write( '#internetku{\n' );
-document.write( 'width:100%;\n' );
-document.write( 'height:auto;\n' );
-document.write( 'text-align:center;\n' );
-document.write( 'margin:5px auto;\n' );
-document.write( '}\n' );
-document.write( '#internetku img{\n' );
-document.write( 'text-align:center;\n' );
-document.write( 'position:relative;\n' );
-document.write( 'width:50%;\n' );
-document.write( 'height:100px;\n' );
-document.write( '}\n' );
-document.write( '#internetku h3{\n' );
-document.write( 'font-size:16px;\n' );
-document.write( 'font-family:\'roboto\', sans-serif;\n' );
-document.write( 'text-transform:uppercase;\n' );
-document.write( '}\n' );
-document.write( '#internetku p{\n' );
-document.write( 'text-align:left;\n' );
-document.write( 'color:#ddd;\n' );
-document.write( '}\n' );
-document.write( '#internetku p a{\n' );
-document.write( 'font-weight:bold;\n' );
-document.write( 'color:#1e90ff;\n' );
-document.write( '}\n' );
-document.write( '</style>' );
+<style type='text/css'>
+#internetku{
+width:100%;
+height:auto;
+text-align:center;
+margin:5px auto;
+}
+#internetku img{
+text-align:center;
+position:relative;
+width:50%;
+height:100px;
+}
+#internetku h3{
+font-size:16px;
+font-family:'roboto', sans-serif;
+text-transform:uppercase;
+}
+#internetku p{
+text-align:left;
+color:#ddd;
+}
+#internetku p a{
+font-weight:bold;
+color:#1e90ff;
+}
+</style>
